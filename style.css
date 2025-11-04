@@ -33,14 +33,14 @@ header h1 {
 }
 
 /* استایل دهی به تگ عکس */
+/* استایل دهی به تگ عکس */
 .image-container img {
     width: 100%; /* تصویر اندازه ظرف خود را پر کند */
     height: auto;
     border-radius: 6px;
-    object-fit: cover; /* مطمئن شدن از پوشش کامل بدون کشیدگی */
+    object-fit: cover;
     margin-bottom: 10px;
 }
-
 .image-container p {
     font-weight: bold;
     color: #723c99;
